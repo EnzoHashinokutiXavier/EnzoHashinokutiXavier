@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnzoHashinokutiXavier
-- 👀 I’m interested in learning about programming
+- 👀 I’m interested in learning about programming languages
 - 🌱 I’m currently learning Python, JS, C
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me : enzokuti.xavi@gmail.com
