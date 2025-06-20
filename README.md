@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnzoHashinokutiXavier
+## 👋 Hi, I’m Enzo Hashinokuti Xavier
 - 📓 I'm a software engineering student
 - 👀 I’m interested in learning about programming languages
 - 🌱 I’m currently learning Python, JS, C
