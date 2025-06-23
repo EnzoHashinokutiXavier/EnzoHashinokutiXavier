@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/HXplayer☆-black" />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+student;I'm+from+Brazil;I'm+also+an+artist+and+a+fighter" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+student;I'm+from+Brazil;I'm+also+an+artist+and+a+fighter" alt="Typing SVG" /></a>
+</div>
 
 <br>
 
