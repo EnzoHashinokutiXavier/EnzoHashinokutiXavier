@@ -56,12 +56,7 @@
   />
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight-duo&hide_border=true"
-  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   </div>
 
 <div align="center" style="display: inline_block"><br>
