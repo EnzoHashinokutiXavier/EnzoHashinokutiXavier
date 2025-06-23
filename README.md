@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/HXplayer☆-black" />
 </div>
 
-<div align="center" width="100%">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+student;I'm+from+Brazil;I'm+also+an+artist+and+a+fighter" alt="Typing SVG"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+student;I'm+from+Brazil;I'm+also+an+artist+and+a+fighter" alt="Typing SVG" /></a>
 
 <br>
 
@@ -52,7 +50,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=github_dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
   />
   <br>
   <br>
