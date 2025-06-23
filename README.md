@@ -50,7 +50,7 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoHashinokutiXavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compactt"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoHashinokutiXavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
   />
   <br>
   <br>
