@@ -99,7 +99,7 @@
 
 <p align="center">
       <samp>
-        ⊹ <a href="https://enzohashinokuti.carrd.co/">Carrd.co</a> ⊹
+        ⊹ <a href="https://enzo-hashinokuti.carrd.co/">Carrd.co</a> ⊹
       </samp>
   </p>
 
