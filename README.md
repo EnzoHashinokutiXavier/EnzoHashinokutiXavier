@@ -32,19 +32,6 @@
   
   <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=EnzoHashinokutiXavier&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoHashinokutiXavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
-  />
   <br>
   <br>
   <img
