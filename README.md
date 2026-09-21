@@ -18,36 +18,27 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+student;I'm+from+Brazil;I'm+also+an+artist+and+a+fighter" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+stu[...]
 </div>
 
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
-
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
-  />
-  <br>
-  <br>
-  <img
-    href="https://git.io/streak-stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-  <br>
-  </div>
+<br>
+<br>
+<img
+  align="center"
+  alt="Top Language"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
+/>
+<br>
+<br>
+<img
+  href="https://git.io/streak-stats"
+  src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak"
+/>
+<br>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" />
@@ -90,8 +81,6 @@
 </div>
 
 ##
-
-</details>
 
 <br>
 <br>
