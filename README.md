@@ -2,7 +2,9 @@
 
 <div align="center">
   <samp>
-    <b>ソフトウェアエンジニア</b>
+    <b>
+      ソフトウェアエンジニア
+    </b>
     <br>
     Hi there! I'm Enzo Hashinokuti Xavier
     <br>
@@ -14,28 +16,28 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+stu[...]"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome+!;I'm+a+Software+Engineering+stu[...]
 </div>
 
 <br>
 
-<div align="center">
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
-  />
-  <br>
-  <br>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
-
+<br>
+<br>
+<img
+  align="center"
+  alt="Top Language"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
+/>
+<br>
+<br>
+<img
+  href="https://git.io/streak-stats"
+  src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 <br>
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
@@ -50,7 +52,9 @@
 
 <div align="center">
   <samp>
-    <b>Contact me:</b>
+    <b>
+      Contact me:
+    </b>
   </samp>
   <br>
   <br>
@@ -62,10 +66,15 @@
 
 <div align="center">
   <p align="center">
-    <samp>⊹ <a href="https://enzo-hashinokuti.carrd.co/">Carrd.co</a> ⊹</samp>
+    <samp>
+      ⊹ <a href="https://enzo-hashinokuti.carrd.co/">Carrd.co</a> ⊹
+    </samp>
   </p>
 </div>
 
 ##
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&color=0033ff&text=%20%20&reversal=false&descAlign=53&section=footer"/>
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=119&color=0033ff&text=%20%20&reversal=false&descAlign=53&section=footer"/>
