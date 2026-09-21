@@ -23,6 +23,8 @@
 
 <div align="center">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 </div>
 
 <br>
@@ -53,7 +55,7 @@
   <br>
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,flask,fastapi,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,flask,fastapi,sqlite,postgres,git,github,aws&perline=7)](https://skillicons.dev)
 
 <br>
 
