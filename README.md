@@ -32,26 +32,10 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>More</b>
       </samp>
   </summary>
   
-  <br>
-
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoHashinokutiXavier&theme=tokyonight"
-  />
-  <br>
-  <br>
-  <img
-    href="https://git.io/streak-stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=EnzoHashinokutiXavier&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
   <br>
   </div>
 
